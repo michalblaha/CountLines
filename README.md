@@ -1,0 +1,1 @@
+﻿# Very fast counting lines in text file
