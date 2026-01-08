@@ -1,0 +1,8 @@
+{
+  "inputs": [],
+  "servers": {
+    "HlidacMCPServer": {
+      "url": "http://lmcp.api.hlidacstatu.cz:881/"
+    }
+  }
+}

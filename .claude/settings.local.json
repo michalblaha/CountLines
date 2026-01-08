@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build:*)",
+      "Bash(binDebugCountLines.exe:*)",
+      "Bash(\"bin\\\\Debug\\\\CountLines.exe\" test.txt)",
+      "Bash(\"bin\\\\Debug\\\\CountLines.exe\" Program.cs)"
+    ]
+  }
+}
